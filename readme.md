@@ -45,7 +45,7 @@ A sample project for basic REST API for medium.com like website
 Clone the repo in your local machine
 
 ```bash
-git clone https://github.com/surajkochale20/medium.git
+git clone https://github.com/surajkochale/NodeAPIDemo.git
 cd medium
 ```
 
